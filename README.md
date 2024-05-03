@@ -16,7 +16,7 @@ The following five methods in the paper are implemented based on pytorch (versio
 
 (5) Bayesian optimization based on FcResNet (BO-FcResNet)
 
-Three PDEs including Klein-Gordon equation, Burgers equation, and Lamé equations are introduced for experiment. 
+Three PDEs including Klein-Gordon equation, Burgers equation, and Lamé equations are solved in experiment. 
 
 
 
