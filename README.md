@@ -53,7 +53,7 @@ The discovered models are evaluated by **klein_gordon_pinns.py**.
 
 
 # Citation
-`bibtex`
+```bibtex```
 @article{zhang2024discovering,
   title={Discovering physics-informed neural networks model for solving partial differential equations through evolutionary computation},
   author={Zhang, Bo and Yang, Chao},
