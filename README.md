@@ -50,3 +50,17 @@ BO-FcNet and BO-FcResNet are executed from **klein_gordon_bayes.py**.
 
 The discovered models are evaluated by **klein_gordon_pinns.py**.
 
+
+
+# Citation
+
+@article{zhang2024discovering,
+  title={Discovering physics-informed neural networks model for solving partial differential equations through evolutionary computation},
+  author={Zhang, Bo and Yang, Chao},
+  journal={Swarm and Evolutionary Computation},
+  volume={88},
+  pages={101589},
+  year={2024},
+  publisher={Elsevier}
+}
+
