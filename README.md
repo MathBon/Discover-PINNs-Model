@@ -64,4 +64,3 @@ The discovered models are evaluated by **klein_gordon_pinns.py**.
   year={2024},
   publisher={Elsevier}
 }
-
